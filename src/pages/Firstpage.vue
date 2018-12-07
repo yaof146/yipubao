@@ -14,6 +14,7 @@
 
 <script>
 import first from '@/components/first'
+import customer from '@/components/customer'
 export default {
   name: 'Firstpage',
   data () {
